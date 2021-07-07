@@ -135,6 +135,7 @@
                             android:clickable="true"
                             android:focusable="false"
                             android:longClickable="false"
+                            android:textColor="@color/colorWhite"
                             android:backgroundTint="@color/colorWhite"
                             android:layout_width="0dp"
                             android:layout_weight="1"
@@ -149,6 +150,7 @@
                             <Button
                                 android:id="@+id/btnSearchD"
                                 android:text="Search"
+                                android:textColor="@color/colorWhite"
                                 android:background="@drawable/rounded_button_primary"
                                 android:layout_width="wrap_content"
                                 android:layout_height="0dp"
@@ -193,6 +195,7 @@
                         <EditText
                             android:id="@+id/etKeyword"
                             android:maxLines="1"
+                            android:textColor="@color/colorWhite"
                             android:backgroundTint="@color/colorWhite"
                             android:layout_width="0dp"
                             android:layout_weight="1"
@@ -206,6 +209,7 @@
                             <Button
                                 android:id="@+id/btnSearchK"
                                 android:text="Search"
+                                android:textColor="@color/colorWhite"
                                 android:background="@drawable/rounded_button_primary"
                                 android:layout_width="wrap_content"
                                 android:layout_height="0dp"
